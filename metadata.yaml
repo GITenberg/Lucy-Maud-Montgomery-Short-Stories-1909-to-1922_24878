@@ -1,0 +1,40 @@
+_repo: Lucy-Maud-Montgomery-Short-Stories-1909-to-1922_24878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Canadian'
+- !lcc 'PS'
+tableOfContents: A golden wedding -- A redeeming sacrifice -- A soul that was not
+  at home -- Abel and his great adventure -- Akin to love -- Aunt Philippa and the
+  men -- Bessie's doll -- Charlotte's ladies -- Christmas at Red Butte -- How we went
+  to the wedding -- Jessamine -- Miss Sally's letter -- My lady Jane -- Robert Turner's
+  revenge -- The Fillmore elderberries -- The finished story -- The garden of spices
+  -- The girl and the photograph -- The gossip of Valley View -- The letters -- The
+  life-book of Uncle Jesse -- The little black doll -- The man on the train -- The
+  romance of Jedediah -- The tryst of the white lady -- Uncle Richard's New Year dinner
+  -- White magic.
+title: Lucy Maud Montgomery Short Stories, 1909 to 1922
+url: http://www.gutenberg.org/ebooks/24878
